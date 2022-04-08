@@ -2,6 +2,21 @@
   "name": "@azure/msal-angular",
   "entries": [
     {
+      "date": "Fri, 08 Apr 2022 00:16:35 GMT",
+      "tag": "@azure/msal-angular_v2.2.0",
+      "version": "2.2.0",
+      "comments": {
+        "none": [
+          {
+            "author": "rginsburg@microsoft.com",
+            "package": "@azure/msal-angular",
+            "commit": "94372ab043804ccd56334d87f7cfa6306fcb1115",
+            "comment": "Created Angular 14 RxJS 6/7 Sample Apps #4642"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 04 Apr 2022 21:12:41 GMT",
       "tag": "@azure/msal-angular_v2.2.0",
       "version": "2.2.0",
